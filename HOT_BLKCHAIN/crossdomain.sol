@@ -11,8 +11,8 @@
  *  Miner in ethereum network verify each transaction 
  *  Mata-data of the 
  *  
- * We are proposing naval idea of "Proactive Big data analyzer as ethereum miner not to varify , But 
- * to Evaluate transaction history and Suggest Government" to do the proactive analysis to identify 
+ * We are proposing novel idea of "Proactive Big data analyzer as ethereum miner not to varify , But 
+ * to Evaluate transaction history and Suggest Government" .We do the proactive analysis to identify 
  *  1> Number of fraudulent behavior/Invalid accesses in project.
  *  1> Hotness association with department based on who's data is wrongly attempted 
  *   
